@@ -1,17 +1,29 @@
 <div align="center">
 
-# ✦ ZephyrZeno
+<br>
 
-**想法 · 探索 · 创造**
+<a href="https://lacrus.top">
+  <img src="assets/lacrus-mark.png" width="144" alt="Lacrus">
+</a>
 
-在代码与好奇心之间，创造一些有趣的东西。
+<h1>ZephyrZeno</h1>
 
-[个人网站](https://lacrus.top)　·　[GitHub](https://github.com/ZephyrZeno)
+<p><samp>探索 · 构建 · 创造</samp></p>
 
----
+<br>
 
-`Systems`　✦　`Creative Coding`　✦　`AI`　✦　`Exploration`
+<p><strong>我们保留了伊卡洛斯的勇气，并用科技换掉了他的蜡翼</strong></p>
+
+<br>
+
+<a href="https://lacrus.top"><img src="assets/website.svg" width="150" height="36" alt="访问 lacrus.top"></a>
+
+<br><br>
+
+<img src="assets/divider.svg" width="720" alt="">
 
 <sub>Keep exploring. Keep building.</sub>
+
+<br><br>
 
 </div>
