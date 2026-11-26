@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.gif">
-  <img src="assets/wave-light.gif" width="900" alt="ZephyrZeno · lacrus">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wave-alpha-dark.webp">
+  <img src="assets/wave-alpha-light.webp" width="900" alt="ZephyrZeno · lacrus">
 </picture>
 
 <br>
