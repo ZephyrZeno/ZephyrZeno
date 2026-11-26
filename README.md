@@ -20,7 +20,7 @@
   <a href="https://lacrus.top">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg">
-      <img src="assets/website.svg" width="150" height="40" alt="Visit lacrus.top">
+      <img src="assets/website.svg" width="168" height="44" alt="Visit lacrus.top">
     </picture>
   </a>
 </p>
