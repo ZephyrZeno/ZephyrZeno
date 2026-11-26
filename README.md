@@ -7,12 +7,17 @@
 
 <br>
 
-<h3>我们保留了伊卡洛斯的勇气，<br>并用科技换掉了他的蜡翼</h3>
+<h3>We kept Icarus’s courage,<br>and replaced his wax wings with technology.</h3>
 
 <br>
 
-<a href="https://lacrus.top"><img src="assets/website.svg" width="158" height="40" alt="访问 lacrus.top"></a>
-
-<br><br>
-
 </div>
+
+<p align="right">
+  <a href="https://lacrus.top">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg">
+      <img src="assets/website.svg" width="150" height="40" alt="Visit lacrus.top">
+    </picture>
+  </a>
+</p>
