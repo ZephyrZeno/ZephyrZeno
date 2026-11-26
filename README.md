@@ -1,13 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="900" alt="ZephyrZeno · lacrus">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.gif">
+  <img src="assets/wave-light.gif" width="900" alt="ZephyrZeno · lacrus">
 </picture>
 
 <br>
 
-<h3>We kept Icarus’s courage,<br>and replaced his wax wings with technology.</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/motto-dark.svg">
+  <img src="assets/motto-light.svg" width="760" alt="We kept Icarus’s courage, and replaced his wax wings with technology.">
+</picture>
 
 <br>
 
